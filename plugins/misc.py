@@ -47,7 +47,7 @@ async def showid(client, message):
         if file_info:
             _id += (
                 f"<b>{file_info.message_type}</b>: "
-                f"<code>{file_info.file_id}</code>\n"
+                f"{file_info.file_id}\n"
             )
         await message.reply_text(
             _id,
