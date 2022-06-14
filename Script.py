@@ -1,8 +1,17 @@
 class script(object):
     START_TXT = """Hi {},
-This Is <a href=https://t.me/{}>{}</a>, I Can Provide Latest Movies and Shows, Just Add Me To Your Group and Enjoy!"""
-    HELP_TXT = """Hey {}
-Here are the Help Commands."""
+This Is <a href=https://t.me/{}>{}</a>, Here you can search Movies & Web Series in inline mode. Just press following buttons and start searching.
+
+You can request movie by sending the name of movie at @Akshayy_Bot.
+
+By @StreamersHub"""
+    HELP_TXT = """You can use me for searching new movies from Inline Mode. First Join @TheDealsMaster , then Just type my username anywhere in Telegram Message Box & Type Movie Name to Search.
+
+Example: <code>@StreamersArchivesBot Master 2021</code>
+
+Request Movie: You can request movie by sending the name of movie at @Akshayy_Bot. [movie_name, release_year & other_details]
+
+Support Group: @StreamersOT"""
     ABOUT_TXT = """Bot Name: {}
 Created By: <a href=https://t.me/StreamersHub>Team StreamersHub</a>"""
     SOURCE_TXT = """<b>NOTE:</b>
