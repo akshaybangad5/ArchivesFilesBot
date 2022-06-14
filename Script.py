@@ -7,7 +7,7 @@ You can request movie by sending the name of movie at @Akshayy_Bot.
 By @StreamersHub"""
     HELP_TXT = """You can use me for searching new movies from Inline Mode. First Join @TheDealsMaster , then Just type my username anywhere in Telegram Message Box & Type Movie Name to Search.
 
-Example: <code>@StreamersArchivesBot Master 2021</code>
+Example: <code>@StreamersArchivesBot KGF</code>
 
 Request Movie: You can request movie by sending the name of movie at @Akshayy_Bot. [movie_name, release_year & other_details]
 
