@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """Hi {},
 This Is <a href=https://t.me/{}>{}</a>, Here you can search Movies & Web Series in inline mode. Just press following buttons and start searching.
 
-You can request or search any movie or show by sending the name of movie in this group.
+You can request or search any movie or show by sending the name of movie in this group https://t.me/+Hg0w2W4-m3A3OTRl .
 
 By @StreamersHub"""
     HELP_TXT = """You can use me for searching new movies from Inline Mode. First Join @TheDealsMaster , then Just type my username anywhere in Telegram Message Box & Type Movie Name to Search.
