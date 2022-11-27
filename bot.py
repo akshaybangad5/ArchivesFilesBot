@@ -17,6 +17,7 @@ from utils import temp
 class Bot(Client):
 
     def __init__(self):
+        super()(
             session_name=SESSION,
             api_id=API_ID,
             api_hash=API_HASH,
