@@ -11,7 +11,7 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = "Akshay"
+SESSION = 'Media_search'
 API_ID = 1306702
 API_HASH = "74d8fd8940e04bd189bea8e247b7e4db"
 BOT_TOKEN = "5372991290:AAEGBX3_NlpBxkgZgKEH1a5Q5Ag82SSPDgo"
